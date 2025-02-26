@@ -5,7 +5,8 @@
 
 test
 
-{% octicon "<name of Octicon>" %}
-{% octicon "plus" %}
-{% octicon "plus" aria-label="Add file" %}
-"{% octicon "plus" aria-hidden="true" %} Add file"
+{% api %}
+
+These instructions are pertinent to API users.
+
+{% endapi %}
