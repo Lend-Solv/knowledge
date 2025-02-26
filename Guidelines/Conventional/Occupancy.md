@@ -1,0 +1,11 @@
+---
+document: 1234
+document_name: occupancy
+category: guidelines
+loan_type: Conventional
+sub_category: occupancy
+reference:
+---
+
+Here is a Conventional occupancy test
+Beans and rice.
