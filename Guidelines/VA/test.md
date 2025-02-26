@@ -1,12 +1,16 @@
 ---
-"document": Occupancy
-"document_id": 1234
+document: Occupancy
+document_id: 1234
 ---
 
-test
+<button>test</button>
 
-{% api %}
 
-These instructions are pertinent to API users.
+{% rowheaders %}
 
-{% endapi %}
+|             | Mona | Tom    | Hobbes |
+|-------------|------|--------|--------|
+|Type of cat  | Octo | Tuxedo | Tiger  |
+|Likes to swim| Yes  | No     | No     |
+
+{% endrowheaders %}
